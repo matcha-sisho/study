@@ -93,4 +93,4 @@ cnt3 = Counter.new("cookie")
 
 p Counter.get_cnt
 p Counter.counter_name
-p cnt3.calcDouble(5)
+p cnt3.calcDouble(7)
